@@ -4,13 +4,6 @@
 
 ---
 
-## 🖼️ Featured Artwork
-
-!Charizard(Pokemon pixel art/Charizard.png)
-!Pokeballs(Pokemon pixel art/Pokeballs.png)
-
----
-
 ## 🛠️ Technical Details
 
 * **Software Used:** [e.g., Aseprite / Piskel / Photoshop]
