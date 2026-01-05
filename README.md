@@ -6,7 +6,8 @@
 
 ## 🖼️ Featured Artwork
 
-![Coming Soon!](path/to/your/best_image.png)
+![Charizard](Pokemon pixel art/Charizard.png)
+![Pokeballs](Pokemon pixel art/Pokeballs.png)
 
 ---
 
