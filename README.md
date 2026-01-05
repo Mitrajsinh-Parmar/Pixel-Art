@@ -6,8 +6,8 @@
 
 ## 🖼️ Featured Artwork
 
-![Charizard](Pokemon pixel art/Charizard.png)
-![Pokeballs](Pokemon pixel art/Pokeballs.png)
+!Charizard(Pokemon pixel art/Charizard.png)
+!Pokeballs(Pokemon pixel art/Pokeballs.png)
 
 ---
 
