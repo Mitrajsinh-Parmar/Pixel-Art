@@ -7,8 +7,8 @@
 ## 🛠️ Technical Details
 
 * **Software Used:** Aseprite
-* **Common Resolutions:** 16x16, 32x32, and 64x64.
-* **Color Palettes:** NES-ntsc.
+* **Common Resolutions:** 16x16, 32x32 and 64x64
+* **Color Palettes:** NES-ntsc
 
 ---
 
